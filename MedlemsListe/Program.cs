@@ -125,7 +125,6 @@ namespace MedlemsListe
                     Console.WriteLine("Tryk enter for at lukke programmet");
                     Console.ReadLine();
                 }
-
             }
         }
     }
